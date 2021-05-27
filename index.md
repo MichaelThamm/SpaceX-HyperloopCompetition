@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+# We Are uWinLoop
 
-You can use the [editor on GitHub](https://github.com/MichaelThamm/SpaceX-HyperloopCompetition/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+3 years into university I found a team of inspired engineering students studying at University of Windsor, ON, Canada. As an electrical & computer engineering student, I was excited to connect with and learn from fellow engineering students from various other departments. We had a common goal; to qualify for the SpaceX-Hyperloop competition in California, USA and meet Elon Musk (the founder of the competition).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[Meet The Team](https://www.uwinloop.ca/)
 
-### Markdown
+## Journey To Top 51
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Many countless working hours passed by which led to the rise of a **magnetic levitation propulsion system**, technically named Double Sided Linear Induction Motor (boring). Leading this team and working alongside other likeminded, junior engineers enabled us to convince the competition admins that our design had potential, granting the team access to the **top 51** ranking and one step closer to our goal.
 
-```markdown
-Syntax highlighted code block
+//insert basic technical jargon here
 
-# Header 1
-## Header 2
-### Header 3
+## Journey To Top 21
 
-- Bulleted
-- List
+Working with SpaceX engineers
 
-1. Numbered
-2. List
+//insert more complex technical jargon here
 
-**Bold** and _Italic_ and `Code` text
+# California
 
-[Link](url) and ![Image](src)
-```
+//insert competition pictures here
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+# Journey To MaSc
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MichaelThamm/SpaceX-HyperloopCompetition/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+While competition was exhilirating and we put our city on the map, I was hungry for more. The rules state that each team member must be a student of a registered university. Realizing that I may never meet my idol again, the inevitibility of persuing a masters degree in magnetic induction propulsion systems was apparent. As I am now 1.5 years into my masters and counting, I sit at my desk waiting for the pandemic to ease and Elon to announce competition again. The true potential of a **genetically optimized induction motor hybrid modelling** software written in Python has yet to be experienced by uWinLoop's competitors as we cruise into the opportunity to meet Elon once again
