@@ -9,5 +9,5 @@ This repository is dedicated to our participation in the SpaceX Hyperloop compet
 
 * For more images of the competition, check out the [Pictures](Pictures) folder.
 * For the technical details see the [FDP.pdf](FDP.pdf)
-  * Navigate to the Section 5. Propulsion to see my contributions as the Propulsion sub-system team lead.
+  * Navigate to __Section 5. Propulsion__ to see my contributions as the Propulsion sub-system team lead.
 
